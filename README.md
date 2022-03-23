@@ -1,4 +1,4 @@
-### Checking if JS can be converted into strict Meta programming language which could create C code which is more or like human readable, essentially this code could be fed back to OS enabling a usermode higher level language run a highly efficient code in kernel as module. Via this a separate thought of creating a new (Web?) Operating system can be spawned by the thinker concurrently constrained by the scope of some project of this much caliber and vision. Anyways No Harm. (%%%)
+### Checking if JS can be converted into strict Meta programming language which could create C code which is more or like human readable, essentially this code could be fed back to OS enabling a usermode higher level language run a highly efficient code in kernel as module. Via this a separate thought of creating a new (Web?) Operating system can be spawned by the thinker concurrently constrained by the scope. (%%%)
 <Experimental>
 Experiment
 </Experimental>
